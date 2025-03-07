@@ -12,7 +12,7 @@
         },
         {
             "type": "java",
-            "name": " Launch ScrapbookFX",
+            "name": "Launch ScrapbookFX",
             "request": "launch",
             "mainClass": "ScrapbookFX",
             "projectName": "Projects_java_b88aa431",
